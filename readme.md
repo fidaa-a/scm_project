@@ -48,7 +48,7 @@ cd home-page-ui
 
 open index.html
 
-
+Thank you
 ---
 
 👩‍💻 Developed By
